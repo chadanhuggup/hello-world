@@ -1,2 +1,2 @@
-info added in branchto see how work
-change made to feature
+info added in branch to see how work
+change made to master
